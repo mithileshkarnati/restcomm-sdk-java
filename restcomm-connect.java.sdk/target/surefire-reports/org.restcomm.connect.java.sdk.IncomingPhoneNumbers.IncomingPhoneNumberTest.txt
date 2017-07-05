@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: org.restcomm.connect.java.sdk.Accounts.AccountTest
+Test set: org.restcomm.connect.java.sdk.IncomingPhoneNumbers.IncomingPhoneNumberTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.273 sec
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.298 sec
